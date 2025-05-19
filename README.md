@@ -2,8 +2,6 @@
 
 ## 🧑‍💻 IT Technician | Systems & Automation Enthusiast | Student at John Moores University
 
-![Self Banner](https://via.placeholder.com/1500x300.png?text=Moez+Mahmood+-+Tech+Enthusiast)
-
 I'm deeply passionate about technology, from hardware to networks and everything in between. Currently pursuing my **BSc (Hons) in Computing** at **John Moores University**, I'm continuously developing my expertise in **server management**, **networking**, **cloud computing**, and **automation**. I love experimenting with technologies, building solutions, and improving systems to maximize efficiency.
 
 ---
