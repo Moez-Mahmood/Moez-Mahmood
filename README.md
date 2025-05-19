@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 IT Technician | Systems & Automation Enthusiast | Student at John Moores University
 
-![Banner](https://via.placeholder.com/1500x300.png?text=Welcome+to+My+GitHub+Profile)
+![Self Banner](https://via.placeholder.com/1500x300.png?text=Moez+Mahmood+-+Tech+Enthusiast)
 
 I'm deeply passionate about technology, from hardware to networks and everything in between. Currently pursuing my **BSc (Hons) in Computing** at **John Moores University**, I'm continuously developing my expertise in **server management**, **networking**, **cloud computing**, and **automation**. I love experimenting with technologies, building solutions, and improving systems to maximize efficiency.
 
@@ -46,16 +46,6 @@ I'm deeply passionate about technology, from hardware to networks and everything
 
 ---
 
-### 🚀 Projects & Accomplishments
-
-- **Home Lab Servers**: Designed and managed multiple servers using **VMware**, **Proxmox**, and other virtual machines to experiment and learn.
-- **Cloud Solutions**: Developed and deployed cloud-based solutions using **Microsoft Azure** for server provisioning and management.
-- **Networking Setup & Smart Homes**: Assisted friends and family with network setups, including **mesh networking** (Deco S4), port forwarding, and smart home device configurations.
-- **Website Development**: Built personal and client websites using **HTML**, **CSS**, and **JavaScript**.
-- **Graphic Design & Video Editing**: Created graphic designs and videos using **Adobe tools** for various projects at work and university.
-
----
-
 ### 💼 Work Experience
 
 #### **IT Technician at Cambridge University**  
@@ -68,6 +58,16 @@ I'm deeply passionate about technology, from hardware to networks and everything
 *Liverpool, United Kingdom*  
 - Assisted in **setting up 130+ classroom computers**, configuring BIOS, and managing hardware records.
 - Improved **Excel** and data management skills, applying basic formulas for list-making and problem-solving.
+
+---
+
+### 🚀 Projects & Accomplishments
+
+- **Home Lab Servers**: Designed and managed multiple servers using **VMware**, **Proxmox**, and other virtual machines to experiment and learn.
+- **Cloud Solutions**: Developed and deployed cloud-based solutions using **Microsoft Azure** for server provisioning and management.
+- **Networking Setup & Smart Homes**: Assisted friends and family with network setups, including **mesh networking** (Deco S4), port forwarding, and smart home device configurations.
+- **Website Development**: Built personal and client websites using **HTML**, **CSS**, and **JavaScript**.
+- **Graphic Design & Video Editing**: Created graphic designs and videos using **Adobe tools** for various projects at work and university.
 
 ---
 
@@ -100,13 +100,3 @@ I’m currently excited to further my learning in areas such as **advanced netwo
 
 > **"The best way to predict the future is to create it."**  
 > I’m constantly experimenting, learning, and applying my knowledge to solve real-world problems. Let’s keep building and innovating!
-
----
-
-### 💬 Let's Connect
-
-I’m always open to new opportunities and collaboration. Feel free to browse through my repositories, explore my projects, or get in touch if you’re working on something exciting!
-
----
-
-## 🌐 Visit My Personal Site: [moez.uk](https://moez.uk)
