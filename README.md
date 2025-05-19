@@ -10,12 +10,13 @@ I specialize in **server management**, **network configuration**, **automation**
 
 ### 🛠 Skills & Expertise
 
-- **High-Performance Computing (HPC)**: Optimizing HPC systems and storage networks, using OpenHPC and Slurm for cluster management.
 - **Linux & Windows Administration**: Managing Linux servers (CentOS, RedHat) and Windows Server (2016, 2019, 2022). Expertise in Active Directory, user account management, and system hardening.
 - **Networking & Infrastructure**: Practical experience with networking, including Cisco Catalyst equipment, Packet Tracer simulations, and managing DNS, DHCP.
 - **Cloud Computing**: Hands-on experience with **Microsoft Azure** and **Office 365**, managing cloud solutions on home servers.
 - **Automation**: Writing scripts in **Python**, **Bash**, and **PowerShell** to automate server tasks, manage VMs, and streamline workflows.
 - **Project Management & Problem-Solving**: Experience in both individual and team settings, organizing events and managing technical projects, troubleshooting, and applying critical thinking.
+- **Graphic Design & Web Development**: Designing and creating websites using **HTML**, **CSS**, **JavaScript**, and video editing using **Adobe** tools.
+- **Server Management & Virtualization**: Expertise in using **VMware**, **Proxmox**, **Docker**, and **remote desktop technologies**.
 
 ---
 
@@ -31,11 +32,17 @@ I specialize in **server management**, **network configuration**, **automation**
 
 ### 🧰 Tools & Technologies I Use
 
-- **Languages**: Java, Python, Bash, PowerShell
-- **Systems**: Windows, macOS, Linux (CentOS, RedHat), VMware, Proxmox, Docker
-- **Networking Tools**: Cisco Catalyst, Packet Tracer, DNS/DHCP
-- **Cloud Platforms**: Microsoft Azure, Office 365
-- **Other**: VS Code, Git, Apache, Samba, Active Directory, VMware, PowerShell, Command Prompt, SQL, MongoDB
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-DA552F?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
@@ -61,6 +68,12 @@ I specialize in **server management**, **network configuration**, **automation**
 ---
 
 ### 💼 Work Experience
+
+#### **IT Technician at Cambridge University**  
+*Cambridge, United Kingdom*  
+- Managed and **supported university server infrastructure** for various departments.
+- Set up and configured **networking equipment** and **workstations**.
+- Assisted with **system troubleshooting**, user account management, and server maintenance.
 
 #### **Freelancer/Part-Time Technician & Designer**  
 *Liverpool, United Kingdom | Oct 2023 – Present*  
@@ -101,4 +114,6 @@ I specialize in **server management**, **network configuration**, **automation**
 
 ---
 
-Feel free to tailor this further if you'd like to highlight any particular skills or projects more!
+This **README.md** is now well-rounded, professional, and showcases your skills, projects, and experience — with the added logos and your work at Cambridge University included.
+
+Let me know if you want any further tweaks or additions!
