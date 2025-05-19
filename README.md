@@ -2,6 +2,8 @@
 
 ## 🧑‍💻 IT Technician | Systems & Automation Enthusiast | Student at John Moores University
 
+![Banner](https://via.placeholder.com/1500x300.png?text=Welcome+to+My+GitHub+Profile)
+
 I'm deeply passionate about technology, from hardware to networks and everything in between. Currently pursuing my **BSc (Hons) in Computing** at **John Moores University**, I'm continuously developing my expertise in **server management**, **networking**, **cloud computing**, and **automation**. I love experimenting with technologies, building solutions, and improving systems to maximize efficiency.
 
 ---
@@ -24,10 +26,6 @@ I'm deeply passionate about technology, from hardware to networks and everything
 #### Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### DevOps & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
 #### Networking & Security
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -45,15 +43,6 @@ I'm deeply passionate about technology, from hardware to networks and everything
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-FF2D00?style=for-the-badge&logo=finalcutpro&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-
-#### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-#### Others
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -97,6 +86,18 @@ I'm deeply passionate about technology, from hardware to networks and everything
 
 ---
 
+### 📖 Read More
+
+I have always been fascinated by how technology works, and over the years, I’ve managed to take my passion into a deep dive of practical applications. From **home lab experiments** to **cloud computing** and **server management**, my journey has been one of constant learning and growth. 
+
+I believe in hands-on experience, which is why I started experimenting with virtual machines and server environments long before my university studies began. Working with both **Linux** and **Windows environments**, I’ve been able to grow my skills in areas like **network management**, **systems administration**, and **automation**.
+
+At **Cambridge University**, I honed my abilities by maintaining and supporting critical **server infrastructures**, troubleshooting a range of hardware and software issues, and ensuring systems were running optimally. This real-world experience has been invaluable in shaping my approach to problem-solving and system efficiency.
+
+I’m currently excited to further my learning in areas such as **advanced network security**, **cloud infrastructure**, and **DevOps automation**. I’m eager to contribute my growing knowledge to meaningful projects and continue to learn from the ever-evolving tech landscape.
+
+---
+
 > **"The best way to predict the future is to create it."**  
 > I’m constantly experimenting, learning, and applying my knowledge to solve real-world problems. Let’s keep building and innovating!
 
@@ -105,3 +106,7 @@ I'm deeply passionate about technology, from hardware to networks and everything
 ### 💬 Let's Connect
 
 I’m always open to new opportunities and collaboration. Feel free to browse through my repositories, explore my projects, or get in touch if you’re working on something exciting!
+
+---
+
+## 🌐 Visit My Personal Site: [moez.uk](https://moez.uk)
