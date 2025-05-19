@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Moez Mahmood
 
-<!--
-**Moez-Mahmood/Moez-Mahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 IT Technician | Systems & Automation
 
-Here are some ideas to get you started:
+I'm an IT technician with hands-on experience managing systems across **macOS**, **Windows**, and servers. I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Languages & Scripting**: Java, Python, Bash, PowerShell  
+- 🛠️ **Skills**: Automation, system troubleshooting, server management, scripting tools  
+- 🖥️ **Focus Areas**: Infrastructure reliability, workflow optimization, cross-platform support
+
+### 🔧 I enjoy:
+- Solving real-world IT problems
+- Creating scripts to automate the boring stuff
+- Keeping systems running clean, fast, and secure
+
+---
+Thank you for visting!
+
